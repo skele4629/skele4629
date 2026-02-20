@@ -12,7 +12,7 @@
 <div/>
 
 <p>
-Im a silly software engineer that develops software for the pursuit of personal fulfiment and making life easier for others. My personal hobbies include learning and tinkering with technologies. Exluding that my personal goals for my career and life are always to seek new information to use and expand my knowledge with. | Want to talk to me? or pick my brain a bit? join my discord! | Want to see what subject im interested in the moment? Read my autodidact encyclopedia. |
+Im a silly software engineer that develops software for the pursuit of personal fulfiment and making life easier for others. My personal hobbies include learning and tinkering with technologies. Exluding that my personal goals for my career and life are always to seek new information to use and expand my knowledge with. | Want to talk to me? or pick my brain a bit? join my discord! | Want to see what subject im interested in at the moment? Read my autodidact encyclopedia. |
 </p>
 
 # My main tech stack
